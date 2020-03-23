@@ -52,7 +52,7 @@ pod 'RFIBAN-Helper', '~> 1.0'
 Add this line in your Cartfile:
 
 ```
-github 'readefries/IBAN-Helper' ~> 3.0
+github 'TizianoCoroneo/IBAN-Helper' ~> 3.0
 ```
 
 This library is available on Carthage starting from version `3.0.4`.
